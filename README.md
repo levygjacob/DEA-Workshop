@@ -1,7 +1,9 @@
 Os arquivos dispostos neste repositório são:
 
 - Apresentação de slides explicando o método de análise envoltória de dados DEA e propondo a resolução de um case para análise de eficiência em restaurantes com duas ferramentas: Excel e Python
+  
   ' Conteúdos da apresentação:
+  
       -  Introdução ao DEA (Análise Envoltória de Dados)
       -  Estruturação do problema: seleção de inputs e outputs
       -  Implementação no Excel (com exemplos práticos)
