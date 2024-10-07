@@ -4,11 +4,12 @@ Os arquivos dispostos neste repositório são:
   
   ' Conteúdos da apresentação:
   
-      -  Introdução ao DEA (Análise Envoltória de Dados)
-      -  Estruturação do problema: seleção de inputs e outputs
-      -  Implementação no Excel (com exemplos práticos)
-      -  Implementação em Python (com uso de pandas, numpy e normalização com RobustScaler)
-      -  Visualização de resultados e rankings de eficiência
+      -  Introdução ao DEA (Análise Envoltória de Dados);
+      -  Estruturação do problema: seleção de inputs e outputs;
+      -  Implementação no Excel.
+      -  Análise exploratória estatística do conjunto de dados;
+      -  Implementação em Python;
+      -  Visualização de resultados e rankings de eficiência.
 
 - Base de dados em .csv para ser utilizada de exemplo no case
 
