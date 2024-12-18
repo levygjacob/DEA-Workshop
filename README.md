@@ -1,3 +1,5 @@
+Workshop ministrado no mestrado em Informática Aplicada, para a disciplina de Sistemas de Apoio à Decisão - Métodos Multicritério - DEA
+
 Os arquivos dispostos neste repositório são:
 
 - Apresentação de slides explicando o método de análise envoltória de dados DEA e propondo a resolução de um case para análise de eficiência em restaurantes com duas ferramentas: Excel e Python
